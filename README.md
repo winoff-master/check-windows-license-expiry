@@ -10,4 +10,5 @@ slmgr /xpr
 - *"This machine is permanently activated"* — you’re good!
 - Or an expiry date if it's a temporary license.
 > **Tip:** This works on Windows 10 and Windows 11. Use it regularly to avoid surprises.
+check-windows-license-expiry
 ---
